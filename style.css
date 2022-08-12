@@ -1,0 +1,190 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+/* STYLE SECTIONING TAGS */
+body {
+  background-color: #ccbccc;
+  text-align: center;
+}
+
+.dressGreenTitle {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.questionAppTitle {
+  text-align: center;
+  padding: 5px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.safeZoneTitle {
+  text-align: center;
+  padding: 5px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.quizTitle {
+  text-align: center;
+  padding: 5px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+/* STYLE TEXT */
+
+header {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Dancing Script', cursive;
+}
+
+main {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 40px;
+  padding: 5px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 15px;
+  margin-bottom: 8px;
+  padding: 5px;
+  font-family: 'Dancing Script', cursive;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-size: 20px;
+  padding: 10px;
+  margin-top: 5px;
+}
+
+.visit {
+  margin-top: 60px;
+  margin-bottom: 2px;
+}
+
+/* STYLE IMAGES */
+
+#headshot {
+  max-width: 100%;
+  max-height: 500px;
+  border-radius: 5px;
+  text-align: center;
+  border: 5px solid #735d78;
+  margin-top: 10px;
+}
+
+#dressWebPic {
+  max-width: 100%;
+  max-height: 400px;
+  border-radius: 5px;
+  text-align: center;
+  border: 5px solid lightblue;
+}
+
+#questionPic {
+  max-width: 100%;
+  max-height: 400px;
+  border-radius: 5px;
+  text-align: center;
+  border: 5px solid lightblue;
+}
+
+#safeZonePic {
+  max-width: 100%;
+  max-height: 400px;
+  border-radius: 5px;
+  text-align: center;
+  border: 5px solid lightblue;
+}
+
+#quizPic {
+  max-width: 100%;
+  max-height: 420px;
+  border-radius: 5px;
+  text-align: center;
+  border: 5px solid lightblue;
+}
+
+#periodProjectPic {
+  max-width: 100%;
+  max-height: 400px;
+  border-radius: 5px;
+  text-align: center;
+  border: 5px solid lightblue;
+}
+
+img {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.lotusicon {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+  max-width: 80%;
+  max-height: 400px;
+}
+
+/* STYLE NAV BAR */
+ul {
+  list-style-type: none;
+  background-color: #735d78;
+  overflow: hidden;
+  padding: 1em;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.3em;
+  padding: 1em;
+  font-family: 'Dancing Script', cursive;
+}
+
+li a:hover {
+  background-color: lightblue;
+  color: black;
+}
